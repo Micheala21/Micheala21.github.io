@@ -9,18 +9,6 @@ I am a motivated and adaptable person with strong communication, people, and com
 
 ---
 
-### EDUCATION
-
-**Trafalgar High School**  
-_2018 – 2022_  
-Grade 12 NQF Level 4
-
-**Cape Peninsula University of Technology**  
-_2023 – Currently_  
-ICT: Diploma in Multimedia Application
-
----
-
 ### SKILLS
 
 * HTML/CSS  
@@ -32,6 +20,18 @@ ICT: Diploma in Multimedia Application
 * Adobe Illustrator  
 * Figma  
 * Visual Studio Code
+
+---
+
+### EDUCATION
+
+**Trafalgar High School**  
+_2018 – 2022_  
+Grade 12 NQF Level 4
+
+**Cape Peninsula University of Technology**  
+_2023 – Currently_  
+ICT: Diploma in Multimedia Application
 
 ---
 
