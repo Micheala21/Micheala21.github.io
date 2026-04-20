@@ -1,7 +1,7 @@
 # Junior Designer & Web Developer  
 ### MICHEALA MARTIN
 
-📞 081 453 1559| 📍 6 Rooihout Road, Bonteheuwel 7764| ✉️ 230599265@gmail.com| 🌐 www.linkedin.com/in/micheala-martin-0164b6272
+📞081 453 1559| 📍6 Rooihout Road, Bonteheuwel 7764| ✉️230599265@gmail.com| 🌐www.linkedin.com/in/micheala-martin-0164b6272
 
 ---
 
