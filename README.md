@@ -47,15 +47,6 @@ Cell Number: 076 707 6751
 
 ---
 
-### CONTACT
-
-**Phone:** 081 453 1559  
-**Address:** 6 Rooihout Road, Bonteheuwel  
-**Email** 230599265@gmail.com  
-**LinkedIn:** www.linkedin.com/in/micheala-martin-0164b6272
-
----
-
 ### INTERVIEW VIDEO
 
 <video width="640" controls>
