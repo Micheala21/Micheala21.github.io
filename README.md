@@ -67,3 +67,9 @@ Embedding the video using Markdown was quite challenging for me. I searched YouT
 
 #### Relection on using Github Pages 
 Deploying GitHub Pages wasn’t difficult for me at first, because when I originally created my repository, I learned how to do it successfully. However, after I ran into issues with embedding my video, I completely forgot how the deployment process worked, which led to my mistake of the video not showing in my README document. I was a bit stuck at that point, so I went back and did some research and asked my classmate where I went wrong. With his guidance, I was able to understand my mistake and follow the correct steps again. In the end, I managed to deploy GitHub Pages successfully and fix the issue, which helped me feel more confident using it in future.
+
+
+--------
+## Agile Portfolio
+
+[View my RideConnect Agile Portfolio](Agile-Portfolio/)
