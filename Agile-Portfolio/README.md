@@ -1,6 +1,7 @@
-# E-Portfolio of WIL assignment
+# Portfolio for WIL Assignment
 
 ### PRP370 Project Presentation 3
+
 This portfolio showcases my work throughout the Agile development process, including the team charter, user stories, product and sprint backlogs, and logbooks. It highlights how I planned, organised and tracked tasks while working with my team, as well as the lessons I learned throughout the project.
 
 Table of Contents
@@ -14,11 +15,25 @@ Table of Contents
 ---
 
 ## 1. Agile Team Charter
-The team charter contains multiple pages outlining the team's agreements, roles and responsibilities. To keep the README organised and concise, I have provided a link below to access the complete document.
 
-<img src="evidence/images/team-charter.png"
+<img src="evidence/images/team-charter/agile-team-charter-1.png"
      alt="Trello Board"
-     width="500"
+     width="1000"
+     height="600">
+
+<img src="evidence/images/team-charter/agile-team-charter-2.png"
+     alt="Trello Board"
+     width="1000"
+     height="600">
+
+<img src="evidence/images/team-charter/agile-team-charter-3.png"
+     alt="Trello Board"
+     width="1000"
+     height="600">
+
+<img src="evidence/images/team-charter/agile-team-charter-4.png"
+     alt="Trello Board"
+     width="1000"
      height="600">
 
 [View the complete Agile Team Charter](evidence/agile-team-charter.pdf)
@@ -35,15 +50,15 @@ This section presents the user stories created for the RideConnect Mobile App. T
 
 ### Rider User Stories
 
-![Rider User Stories for the RideConnect Mobile App](evidence/images/user-stories.png)
+![Rider User Stories for the RideConnect Mobile App](evidence/images/user-stories/user-stories.png)
 
 ### Driver User Stories
 
-![Driver User Stories for the RideConnect Mobile App](evidence/images/driver-user-stories.png)
+![Driver User Stories for the RideConnect Mobile App](evidence/images/user-stories/driver-user-stories.png)
 
 ### Admin User Stories
 
-![Admin User Stories for the RideConnect Mobile App](evidence/images/admin-user-stories.png)
+![Admin User Stories for the RideConnect Mobile App](evidence/images/user-stories/admin-user-stories.png)
 
 [View the Complete User Stories Document](evidence/RideConnect-user-stories.pdf)
 
@@ -54,9 +69,15 @@ The user stories were helpful in planning the navigation for all the users. At t
 ---
 
 ## 3. Trello
-The Trello board contains many tasks and cards, so I have included a link below to access the complete board and view the tasks in more detail.
 
-![Trello Preview](evidence/images/trelloboard.png)
+The Trello board contains many tasks and cards, so I have created several lists in order to show the entire trello board.
+
+#### This is not how it acually looks like.
+
+<img src="evidence/images/trelloboard.png"
+     alt="Trello Board"
+     width="1000"
+     height="500">
 
 [View the complete Trello Board](https://trello.com/b/BpT1NslS)
 
@@ -72,7 +93,7 @@ This section presents the product and sprint backlogs for the RideConnect Mobile
 
 ### Sprint 1 Backlog
 
-![Backlog of Sprint 1 for the RideConnect Mobile App](evidence/images/sprint-image.png)
+![Backlog of Sprint 1 for the RideConnect Mobile App](evidence/images/sprint-backlog/sprint-image.png)
 
 [View Sprint 1 Backlog on Trello](https://trello.com/b/AFQp5byc)
 
@@ -80,7 +101,7 @@ This section presents the product and sprint backlogs for the RideConnect Mobile
 
 ### Sprint 2 Backlog
 
-![Backlog of Sprint 2 for the RideConnect Mobile App](evidence/images/sprint-backlog-2.png)
+![Backlog of Sprint 2 for the RideConnect Mobile App](evidence/images/sprint-backlog/sprint-backlog-2.png)
 
 [View Sprint 2 Backlog on Trello](https://trello.com/b/AFQp5byc)
 
@@ -88,7 +109,7 @@ This section presents the product and sprint backlogs for the RideConnect Mobile
 
 ### Sprint 3 Backlog
 
-![Backlog of Sprint 3 for the RideConnect Mobile App](evidence/images/Sprint-3.png)
+![Backlog of Sprint 3 for the RideConnect Mobile App](evidence/images/sprint-backlog/Sprint-3.png)
 
 [View Sprint 3 Backlog on Trello](https://trello.com/b/1jregnhD)
 
@@ -96,7 +117,7 @@ This section presents the product and sprint backlogs for the RideConnect Mobile
 
 ### Sprint 4 Backlog
 
-![Backlog of Sprint 4 for the RideConnect Mobile App](evidence/images/Sprint-4.png)
+![Backlog of Sprint 4 for the RideConnect Mobile App](evidence/images/sprint-backlog/Sprint-4.png)
 
 [View Sprint 4 Backlog on Trello](https://trello.com/b/hwYaQYf8)
 
@@ -104,7 +125,7 @@ This section presents the product and sprint backlogs for the RideConnect Mobile
 
 ### Sprint 5 Backlog
 
-![Backlog of Sprint 5 for the RideConnect Mobile App](evidence/images/Sprint-5.png)
+![Backlog of Sprint 5 for the RideConnect Mobile App](evidence/images/sprint-backlog/Sprint-5.png)
 
 [View Sprint 5 Backlog on Trello](https://trello.com/b/TAAdbR1I)
 
@@ -112,7 +133,7 @@ This section presents the product and sprint backlogs for the RideConnect Mobile
 
 ### Sprint 6 Backlog
 
-![Backlog of Sprint 6 for the RideConnect Mobile App](evidence/images/Sprint-6.png)
+![Backlog of Sprint 6 for the RideConnect Mobile App](evidence/images/sprint-backlog/Sprint-6.png)
 
 [View Sprint 6 Backlog on Trello](https://trello.com/b/IGZLjIHC)
 
@@ -120,7 +141,7 @@ This section presents the product and sprint backlogs for the RideConnect Mobile
 
 ### Sprint 7 Backlog
 
-![Backlog of Sprint 7 for the RideConnect Mobile App](evidence/images/Sprint-7.png)
+![Backlog of Sprint 7 for the RideConnect Mobile App](evidence/images/sprint-backlog/Sprint-7.png)
 
 [View Sprint 7 Backlog on Trello](https://trello.com/b/te0zD0ZS)
 
@@ -132,14 +153,41 @@ When I first encountered the product and sprint backlogs, I did not fully unders
 
 ## 5. Agile Logbook
 
-The Agile logbooks contain several pages of information, so I have provided a link below to access the complete documents for a more detailed view of my progress and reflections throughout the project.
+#### Logbook for the 14-17th July 2026
 
-<img src="evidence/images/agile-logbooks.png"
+<img src="evidence/images/agile-logbooks/logbook-14.png"
      alt="Trello Board"
-     width="500"
+     width="1000"
      height="600">
 
-### Logbooks
+---
+
+#### Logbook for the 21-24th July 2026
+
+<img src="evidence/images/agile-logbooks/logbook-21.png"
+     alt="Trello Board"
+     width="1000"
+     height="600">
+
+---
+
+#### Logbook for the 28th-31st July 2026
+
+<img src="evidence/images/agile-logbooks/logbook-28.png"
+     alt="Trello Board"
+     width="1000"
+     height="600">
+
+---
+
+#### Logbook for the 4th-7th August 2026
+
+<img src="evidence/images/agile-logbooks/logbook-4.png"
+     alt="Trello Board"
+     width="1000"
+     height="600">
+
+### Logbooks Link
 
 [View agile logbook entries](evidence/agile-logbooks.pdf)
 
